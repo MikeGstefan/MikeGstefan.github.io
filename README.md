@@ -1,10 +1,11 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <title>Title of the document</title>
+    <title>resume</title>
   </head>
   <body>
-    <h1>PDF Example</h1>
-    <p>Open a PDF file <a href="/docs/resume.pdf">example</a>.</p>
+    <h1>resume</h1>
+    <object data="/docs/resume.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display file</p>
+    </object>
   </body>
 </html>
